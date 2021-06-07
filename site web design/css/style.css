@@ -39,6 +39,8 @@ h2{
 .foto1{
     text-align: center;
     border-radius: 50%;
+    height: 350px;
+    margin-top: 50px;
 }
 .insta, .logowpp{
     width: 70px;
