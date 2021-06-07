@@ -23,6 +23,7 @@ main{
 .titulo2{
     color: rgb(18, 127, 199);
     margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .paragraph{
     margin: 0;
@@ -35,6 +36,7 @@ h2{
     text-align: left;
     color: #ffffff;
     font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .foto1{
     text-align: center;
@@ -56,4 +58,5 @@ h2{
 }.titlegit{
     text-align: center;
     font-size: 16pt;
+    font-family: Arial, Helvetica, sans-serif;
 }
